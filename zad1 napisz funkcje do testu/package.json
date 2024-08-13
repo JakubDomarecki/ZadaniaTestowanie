@@ -1,0 +1,14 @@
+{
+  "name": "coders-lab-tdd",
+  "version": "1.0.0",
+  "description": "Exercise with TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "author": "Coders Lab",
+  "license": "ISC",
+  "dependencies": {
+    "vitest": "1.2.0"
+  }
+}
